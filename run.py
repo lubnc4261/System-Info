@@ -1,6 +1,3 @@
-import time
-
-start_time = time.time()
 
 try:
     import platform
